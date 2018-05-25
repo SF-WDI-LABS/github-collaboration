@@ -48,13 +48,6 @@ What makes a branch special in git is that we're always on a specific branch. Wh
 Terminology: HEAD is simply a reference to the current or most recent commit!
 
 
-<img src="https://www.atlassian.com/git/images/tutorials/collaborating/using-branches/01.svg" width="70%">
-
-
-
-
-
-
 ### Q. Why is branching an important part of git?
 
 
